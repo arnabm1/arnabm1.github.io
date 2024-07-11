@@ -67,7 +67,7 @@ Built and deployed the optimized DNN frameworks for human activity recognition o
 - **Journal Articles:** [ACM TECS 2023](https://dl.acm.org/doi/abs/10.1145/3623380)
 - **Conference Proceedings:** [SOCC 2020](https://ieeexplore.ieee.org/abstract/document/9524796)
 - **Book Chapters:** [Machine Learning for Computer Scientists and Data Analysts 2022](https://link.springer.com/book/10.1007/978-3-030-96756-7)
-- 
+
 ## All Publications
 1. [Utteja Kallakuri, Bharat Prakash, **Arnab Neelim Mazumder**, et al., 2024. "ATLAS: Adaptive Landmark Acquisition using LLM-Guided
 Navigation" First Vision and Language for Autonomous Driving and Robotics (VLADR) Workshop, **(CVPR)**.](https://openreview.net/forum?id=VhpxzSWTWj)
