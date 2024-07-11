@@ -33,6 +33,16 @@ Hardware-aware fine-tuning of DNNs, Explainable AI, Compression techniques for E
 -  **Libraries & Tools:** NumPy, Pandas, Scikit-learn, Librosa, Matplotlib, SciPy, Rdkit, Hugging Face, OpenCV, NLTK, Git, Docker
 -  **Office Tools:** MS Office, MS Excel, MS Powerpoint, LaTeX Overleaf
 
+## Projects
+- **Reg-Tune: Regression-Based Fine-Tuning Approach for DNNs on Embedded Platforms**
+  - Worked on the Google Speech Commands and CIFAR-10 dataset to develop low energy-consuming models on FPGA and NVIDIA Jetson Nano processors that provide near-optimal (100x reduction in model size)} results for multiple objectives using Tensorflow, PyTorch, QKeras, Librosa, MATLAB, TensorRT and Vivado HDL.
+- **XAI-Increment: Explainable-AI-focused Incremental Learning**
+  - Designed the XAI-inspired incremental learning framework (at least 1% accuracy improvement throughout all incremental sessions)
+- **Low-Power Multi-modal CNN for Respiratory Symptoms Detections**
+  - Built and deployed the optimized multi-modal framework for respiratory symptoms detection with an End-to-end CNN architecture (1.5x improvement for energy efficiency with no accuracy degradation)} using Tensorflow, PyTorch, Keras, and Vivado HDL.
+  
+
+
 ## Publications
 1. [Utteja Kallakuri, Bharat Prakash, **Arnab Neelim Mazumder**, et al., 2024. "ATLAS: Adaptive Landmark Acquisition using LLM-Guided
 Navigation" First Vision and Language for Autonomous Driving and Robotics (VLADR) Workshop, **(CVPR)**.](https://openreview.net/forum?id=VhpxzSWTWj)
