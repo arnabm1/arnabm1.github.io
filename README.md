@@ -1,4 +1,5 @@
 # PhD Candidate, AI/ML Researcher
+### [Resume](https://drive.google.com/file/d/1ylvGOYXDt71ffI6o3GGgm457_ODn_vYi/view?usp=sharing), [CV](https://drive.google.com/file/d/15y7_ykeDb9rfURJPI3rD8rLe4-BKmqXs/view?usp=sharing), [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=VX1E48AAAAAJ&sortby=pubdate)
 ## Research Interests
 Hardware-aware fine-tuning of DNNs, Explainable AI, Compression techniques for Embedded AI, AI/ML for vision, audio, time-series and healthcare applications
 
@@ -36,7 +37,7 @@ Hardware-aware fine-tuning of DNNs, Explainable AI, Compression techniques for E
 1. [Utteja Kallakuri, Bharat Prakash, **Arnab Neelim Mazumder**, et al., 2024. "ATLAS: Adaptive Landmark Acquisition using LLM-Guided
 Navigation" First Vision and Language for Autonomous Driving and Robotics (VLADR) Workshop, **(CVPR)**.](https://openreview.net/forum?id=VhpxzSWTWj)
 2. [**Arnab Neelim Mazumder** and T. Mohsenin, "Reg-TuneV2: A Hardware-Aware and Multiobjective Regression-Based Fine-Tuning Approach for Deep Neural Networks on Embedded Platforms," in **IEEE Micro** 2023.](https://ieeexplore.ieee.org/abstract/document/10254568)
-3. [**Arnab Neelim Mazumder**, Farshad Safavi, Maryam Rahnemoonfar, and Tinoosh Mohsenin. "Reg-Tune: A Regression-Focused Fine-Tuning Approach for Profiling Low Energy Consumption and Latency," ACM Transactions of Embedded Computing and Systems **(TECS)**2023.](https://dl.acm.org/doi/abs/10.1145/3623380)
+3. [**Arnab Neelim Mazumder**, Farshad Safavi, Maryam Rahnemoonfar, and Tinoosh Mohsenin. "Reg-Tune: A Regression-Focused Fine-Tuning Approach for Profiling Low Energy Consumption and Latency," ACM Transactions of Embedded Computing and Systems **(TECS)** 2023.](https://dl.acm.org/doi/abs/10.1145/3623380)
 4. [**Arnab Neelim Mazumder**, Niall Lyons, Ashutosh Pandey, Avik Santra and Tinoosh Mohsenin, "Harnessing the Power of Explanations for Incremental Training: A LIME-Based Approach," 2023 31st European Signal Processing Conference **(EUSIPCO)**, Helsinki, Finland.](https://ieeexplore.ieee.org/abstract/document/10289904)
 5. [Dennis V. Christensen, Regina Dittmann et al., “2022 roadmap on neuromorphic computing and engineering," IOP Publishing Limited.](https://iopscience.iop.org/article/10.1088/2634-4386/ac4a83/meta)
 6. [**Arnab Neelim Mazumder**, and Tinoosh Mohsenin. "A fast network exploration strategy to profile low energy consumption for keyword spotting." **tinyML** Research Symposium 2022.](https://arxiv.org/abs/2202.02361)
@@ -51,12 +52,16 @@ Navigation" First Vision and Language for Autonomous Driving and Robotics (VLADR
 2. [Niall Lyons, **Arnab Neelim Mazumder**, Avik Santra, Anand Dubey, Ashutosh Pandey, "Building generalized machine learning models from machine learning model explanations", US Patent App. 18/178,223.](https://patents.google.com/patent/US20240119293A1/en)
 
 ## Featured News Articles
-- February 2023 "Cutting-edge UMBC research uses artificial intelligence and robots to assist national security," Baltimore WJZ News, [featured at 1:33 timestamp.](https://www.cbsnews.com/baltimore/news/cutting-edge-umbc-research-uses-artificial-intelligence-and-robots-to-assist-national-security/)
-- February 2023 "Pitfalls of artificial intelligence," UMBC News, [featured in the ”Connecting Robots and AI” section.](https://umbc.edu/stories/umbc-experts-on-promises-and-pitfalls-of-artificial-intelligence/)
-- October 2021 "COVID-Matter framework to determine the severity of respiratory disease," UMBC News, [featured as part of EEHPC Lab at UMBC.](https://news.umbc.edu/umbcs-tinoosh-mohsenin-develops-covid-matter-framework-to-determine-severity-of-respiratory-disease/)
-- March 2021, "Groundbreaking computer engineering research," UMBC News, [featured as part of EEHPC Lab at UMBC.](https://news.umbc.edu/umbc-celebrates-u-s-news-best-grad-school-rankings-in-engineering-public-affairs/)
+- February 2023: "Cutting-edge UMBC research uses artificial intelligence and robots to assist national security," Baltimore WJZ News, [featured at 1:33 timestamp.](https://www.cbsnews.com/baltimore/news/cutting-edge-umbc-research-uses-artificial-intelligence-and-robots-to-assist-national-security/)
+- February 2023: "Pitfalls of artificial intelligence," UMBC News, [featured in the ”Connecting Robots and AI” section.](https://umbc.edu/stories/umbc-experts-on-promises-and-pitfalls-of-artificial-intelligence/)
+- October 2021: "COVID-Matter framework to determine the severity of respiratory disease," UMBC News, [featured as part of EEHPC Lab at UMBC.](https://news.umbc.edu/umbcs-tinoosh-mohsenin-develops-covid-matter-framework-to-determine-severity-of-respiratory-disease/)
+- March 2021: "Groundbreaking computer engineering research," UMBC News, [featured as part of EEHPC Lab at UMBC.](https://news.umbc.edu/umbc-celebrates-u-s-news-best-grad-school-rankings-in-engineering-public-affairs/)
 
 ## Peer Review Services
 - 2024: IEEE International Workshop on Machine Learning for Signal Processing (MLSP)
 - 2023: IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), IEEE Sensors Journal, ACM Transactions on Embedded Computing Systems (TECS)
 - 2022: IEEE 35th International Systems-on-Chip Conference (SOCC) 
+
+## Contact
+- Email: arnabm1@umbc.edu
+- [Linkedin](https://www.linkedin.com/in/arnab-neelim-mazumder/)
