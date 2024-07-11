@@ -39,29 +39,57 @@ Worked on the Google Speech Commands and CIFAR-10 dataset to develop low energy-
 
 ![Reg-Tune](/reg_tune_v2.png)
 
+- **Journal Articles:** [IEEE Micro 2023](https://ieeexplore.ieee.org/abstract/document/10254568), [ACM TECS 2023](https://dl.acm.org/doi/abs/10.1145/3623380)
+- **Conference Proceedings:** [tinyML 2022](https://arxiv.org/abs/2202.02361)
+
 ### XAI-Increment: Explainable-AI-focused Incremental Learning
 Designed the XAI-inspired incremental learning framework (at least 1% accuracy improvement throughout all incremental sessions)
 
 ![XAI](/lime.png)
 
+- **Conference Proceedings:** [EUSIPCO 2023](https://ieeexplore.ieee.org/abstract/document/10289904)
+
 ### Low-power Multi-modal CNN for Respiratory Symptom Detection
-Built and deployed the optimized multi-modal framework for respiratory symptoms detection with an End-to-end CNN architecture (1.5x improvement for energy efficiency with no accuracy degradation)} using Tensorflow, PyTorch, Keras, and Vivado HDL.
+Built and deployed the optimized multi-modal framework for respiratory symptoms detection with an End-to-end CNN architecture (1.5x improvement for energy efficiency with no accuracy degradation) using Tensorflow, PyTorch, Keras, and Vivado HDL.
 
 ![Multi-modal](/top_soft.png)
-  
-## Publications
+
+- **Journal Articles:** [IEEE Design and Test 2021](https://ieeexplore.ieee.org/abstract/document/9427523)
+- **Conference Proceedings:** [SIGKDD 2020](https://arxiv.org/abs/2011.13194), [AICAS 2021](https://ieeexplore.ieee.org/abstract/document/9458509/)
+- **Book Chapter:** [Science behind the COVID Pandemic and Healthcare Technology Solutions 2022](https://link.springer.com/chapter/10.1007/978-3-031-10031-4_4)
+
+### Low-power Digital Accelerators for Human Activity Recognition
+Built and deployed the optimized DNN frameworks for human activity recognition on digital accelerators (5.7x improvement for energy efficiency) using Tensorflow, PyTorch, Keras, and Vivado HDL.
+
+![HAR-model](socc_model.png)
+
+- **Journal Articles:** [ACM TECS 2023](https://dl.acm.org/doi/abs/10.1145/3623380)
+- **Conference Proceedings:** [SOCC 2020](https://ieeexplore.ieee.org/abstract/document/9524796)
+- **Book Chapters:** [Machine Learning for Computer Scientists and Data Analysts 2022](https://link.springer.com/book/10.1007/978-3-030-96756-7)
+- 
+## All Publications
 1. [Utteja Kallakuri, Bharat Prakash, **Arnab Neelim Mazumder**, et al., 2024. "ATLAS: Adaptive Landmark Acquisition using LLM-Guided
 Navigation" First Vision and Language for Autonomous Driving and Robotics (VLADR) Workshop, **(CVPR)**.](https://openreview.net/forum?id=VhpxzSWTWj)
 2. [**Arnab Neelim Mazumder** and T. Mohsenin, "Reg-TuneV2: A Hardware-Aware and Multiobjective Regression-Based Fine-Tuning Approach for Deep Neural Networks on Embedded Platforms," in **IEEE Micro** 2023.](https://ieeexplore.ieee.org/abstract/document/10254568)
 3. [**Arnab Neelim Mazumder**, Farshad Safavi, Maryam Rahnemoonfar, and Tinoosh Mohsenin. "Reg-Tune: A Regression-Focused Fine-Tuning Approach for Profiling Low Energy Consumption and Latency," ACM Transactions of Embedded Computing and Systems **(TECS)** 2023.](https://dl.acm.org/doi/abs/10.1145/3623380)
 4. [**Arnab Neelim Mazumder**, Niall Lyons, Ashutosh Pandey, Avik Santra and Tinoosh Mohsenin, "Harnessing the Power of Explanations for Incremental Training: A LIME-Based Approach," 2023 31st European Signal Processing Conference **(EUSIPCO)**, Helsinki, Finland.](https://ieeexplore.ieee.org/abstract/document/10289904)
-5. [Dennis V. Christensen, Regina Dittmann, et al., “2022 roadmap on neuromorphic computing and engineering," IOP Publishing Limited.](https://iopscience.iop.org/article/10.1088/2634-4386/ac4a83/meta)
-6. [**Arnab Neelim Mazumder**, and Tinoosh Mohsenin. "A fast network exploration strategy to profile low energy consumption for keyword spotting." **tinyML** Research Symposium 2022.](https://arxiv.org/abs/2202.02361)
-7. [**Arnab Neelim Mazumder** et al., "A Survey on the Optimization of Neural Network Accelerators for Micro-AI On-Device Inference," in IEEE Journal on Emerging and Selected Topics in Circuits and Systems **(JETCAS)** 2021.](https://ieeexplore.ieee.org/abstract/document/9627710)
-8. [**Arnab Neelim Mazumder** et al., "Automatic Detection of Respiratory Symptoms Using a Low-Power Multi-Input CNN Processor," in **IEEE Design & Test** 2021.](https://ieeexplore.ieee.org/abstract/document/9427523)
-9. [Morteza Hosseini, Mohammad Ebrahimabadi, **Arnab Neelim Mazumder**, et al. "A fast method to fine-tune neural networks for the least energy consumption on FPGAs," in Hardware Aware Efficient Training (HAET) workshop of International Conference on Learning Representations **(ICLR)** 2021](https://eehpc.csee.umbc.edu/publications/pdf/2021/A_fast_method.pdf)
-10. [Mrteza Hosseini, Haoran Ren, Hasib-Al Rashid, **Arnab Neelim Mazumder**, et al., “Neural networks for pulmonary disease diagnosis using auditory and demographic information,” in epiDAMIK 2020: 3rd epiDAMIK ACM **SIGKDD** International Workshop on Epidemiology meets Data Mining and Knowledge Discovery, 2020.](https://arxiv.org/abs/2011.13194)
-11. [**Arnab Neelim Mazumder**, Hasib-Al Rashid, et al., "An Energy-Efficient Low Power LSTM Processor for Human Activity Monitoring," IEEE 33rd International System-on-Chip Conference **(SOCC)** 2022.](https://ieeexplore.ieee.org/abstract/document/9524796)
+5. [Hasib-Al Rashid, Haoran Ren, **Arnab Neelim Mazumder**, Mohammad M. Sajadi & Tinoosh Mohsenin, "A Re-configurable Software-Hardware CNN Framework for Automatic Detection of Respiratory Symptoms," The Science behind the COVID Pandemic and Healthcare Technology Solutions 2022](https://link.springer.com/chapter/10.1007/978-3-031-10031-4_4)
+6. [Dennis V. Christensen, Regina Dittmann, et al., “2022 roadmap on neuromorphic computing and engineering," IOP Publishing Limited.](https://iopscience.iop.org/article/10.1088/2634-4386/ac4a83/meta)
+7. [**Arnab Neelim Mazumder**, and Tinoosh Mohsenin. "A fast network exploration strategy to profile low energy consumption for keyword spotting." **tinyML** Research Symposium 2022.](https://arxiv.org/abs/2202.02361)
+8. [S. Rafatirad, H. Homayoun, Z. Chen, S. M. Pudukotai Dinakarrao, et al., “Sensornet: An educational neural network framework for low-power multimodal data classification,” in Machine Learning for Computer Scientists and Data Analysts 2022.](https://link.springer.com/book/10.1007/978-3-030-96756-7)
+9. [**Arnab Neelim Mazumder** et al., "A Survey on the Optimization of Neural Network Accelerators for Micro-AI On-Device Inference," in IEEE Journal on Emerging and Selected Topics in Circuits and Systems **(JETCAS)** 2021.](https://ieeexplore.ieee.org/abstract/document/9627710)
+10. [Morteza Hosseini, Nitheesh Kumar Manjunath, Bharat Prakash, **Arnab Neelim Mazumder**, Vandana Chandrareddy, Houman Homayoun, and Tinoosh Mohsenin, "Cyclic sparsely connected architectures for compact deep convolutional neural networks," in IEEE Transactions on Very Large Scale Integration **(TVLSI)** Systems 2021.](https://ieeexplore.ieee.org/abstract/document/9537909/)
+11. [Aidin Shiri, Bharat Prakash, **Arnab Neelim Mazumder**, Nicholas R Waytowich, Tim Oates, and Tinoosh Mohsenin, "An energy-efficient hardware accelerator for hierarchical deep reinforcement learning," in IEEE 3rd International Conference on Artificial Intelligence Circuits and Systems **(AICAS)** 2021.](https://ieeexplore.ieee.org/abstract/document/9458548/)
+12. [Hasib-Al Rashid, **Arnab Neelim Mazumder**, Utteja Panchakshara Kallakuri Niyogi, and Tinoosh Mohsenin, "CoughNet: A flexible low power CNN-LSTM processor for cough sound detection," in IEEE 3rd International Conference on Artificial Intelligence Circuits and Systems **(AICAS)** 2021.](https://ieeexplore.ieee.org/abstract/document/9458509/)
+13. [**Arnab Neelim Mazumder** et al., "Automatic Detection of Respiratory Symptoms Using a Low-Power Multi-Input CNN Processor," in **IEEE Design & Test** 2021.](https://ieeexplore.ieee.org/abstract/document/9427523)
+14. [Aidin Shiri, **Arnab Neelim Mazumder**, Bharat Prakash, Houman Homayoun, Nicholas R Waytowich, and Tinoosh Mohsenin, "A hardware accelerator for language-guided reinforcement learning," in **IEEE Design & Test** 2021.](https://ieeexplore.ieee.org/abstract/document/9367213/)
+15. [Morteza Hosseini, Mohammad Ebrahimabadi, **Arnab Neelim Mazumder**, et al. "A fast method to fine-tune neural networks for the least energy consumption on FPGAs," in Hardware Aware Efficient Training (HAET) workshop of International Conference on Learning Representations **(ICLR)** 2021](https://eehpc.csee.umbc.edu/publications/pdf/2021/A_fast_method.pdf)
+16. [Morteza Hosseini, Haoran Ren, Hasib-Al Rashid, **Arnab Neelim Mazumder**, et al., “Neural networks for pulmonary disease diagnosis using auditory and demographic information,” in epiDAMIK 2020: 3rd epiDAMIK ACM **SIGKDD** International Workshop on Epidemiology meets Data Mining and Knowledge Discovery, 2020.](https://arxiv.org/abs/2011.13194)
+17. [**Arnab Neelim Mazumder**, Hasib-Al Rashid, et al., "An Energy-Efficient Low Power LSTM Processor for Human Activity Monitoring," in IEEE 33rd International System-on-Chip Conference **(SOCC)** 2020.](https://ieeexplore.ieee.org/abstract/document/9524796)
+18. [Haoran Ren, **Arnab Neelim Mazumder**, Hasib-Al Rashid, Vandana Chandrareddy, Aidin Shiri, Nitheesh Kumar Manjunath, and Tinoosh Mohsenin, "End-to-end scalable and low power multi-modal CNN for respiratory-related symptoms detection," in IEEE 33rd International System-on-Chip Conference **(SOCC)** 2020.](https://ieeexplore.ieee.org/abstract/document/9524755/)
+19. [Aidin Shiri, **Arnab Neelim Mazumder**, Bharat Prakash, Nitheesh Kumar Manjunath, Houman Homayoun, Avesta Sasan, Nicholas R Waytowich, and Tinoosh Mohsenin, "Energy-efficient hardware for language guided reinforcement learning," in Proceedings of the Great Lakes Symposium on VLSI **(GLSVLSI)** 2020.](https://dl.acm.org/doi/abs/10.1145/3386263.3407652)
+20. [**Arnab Neelim Mazumder**, Emon Dey, and Sharmin Majumder, "A Color Image Watermarking Scheme Employing the Features of Directive Contrast in the DWT-SVD Domain," in IEEE 5th International Conference for Convergence in Technology (I2CT) 2019.](https://ieeexplore.ieee.org/abstract/document/9033597/)
+21. [Emon Dey, Sharmin Majumder, **Arnab Neelim Mazumder**, "A new approach to color image watermarking based on joint DWT-SVD domain in YIQ color space," in 3rd International Conference on Electrical Information and Communication Technology (EICT) 2017.](https://ieeexplore.ieee.org/abstract/document/8275190/)
 
 ## Patents
 1. [Niall Lyons, **Arnab Neelim Mazumder**, Avik Santra, Anand Dubey, Ashutosh Pandey, "Managing data drift in machine learning models using incremental learning and explainability," US Patent App. 18/178,351.](https://patents.google.com/patent/US20240119290A1/en)
