@@ -1,7 +1,7 @@
 # PhD Candidate, AI/ML Researcher
 ### [Resume](https://drive.google.com/file/d/1ylvGOYXDt71ffI6o3GGgm457_ODn_vYi/view?usp=sharing), [CV](https://drive.google.com/file/d/15y7_ykeDb9rfURJPI3rD8rLe4-BKmqXs/view?usp=sharing), [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=VX1E48AAAAAJ&sortby=pubdate)
-## Research Interests
-Hardware-aware fine-tuning of DNNs, Explainable AI, Compression techniques for Embedded AI, AI/ML for vision, audio, time-series and healthcare applications
+## About
+I am a UMBC graduate student pursuing a PhD in Computer Engineering with both academic and internship experience in developing explainable deep learning modules for audios and images as well as their deployment on embedded devices. Specialties include but are not limited to Python, MATLAB, C Programming, TensorFlow, PyTorch, and Verilog. Previously, I worked as an intern at Infineon Technologies with a focus on building transparent and interpretable AI models. Current research interests focus on hardware-aware fine-tuning of DNNs, explainable AI, compression techniques for Embedded AI, and AI/ML for vision, audio, time-series, and healthcare applications.
 
 ## Education
 - PhD, Computer Engineering 
@@ -13,7 +13,7 @@ Hardware-aware fine-tuning of DNNs, Explainable AI, Compression techniques for E
  
 ## Work Experience
 **Visiting Research Scholar @ Johns Hopkins University (_September 2023 - Present_)**
-- Working as a visiting research fellow as part of the EEHPC team at Johns Hopkins University under the guidance of [**Dr. Tinoosh Mohsenin**](https://eehpc.ece.jhu.edu/tinoosh-mohsenin/). My main research interests in the role include hardware-aware regression-based fine-tuning, explainable AI, and incremental learning for vision, audio, WLAN, and time-series applications.
+- Working as a visiting research scholar as part of the EEHPC team at Johns Hopkins University under the guidance of [**Dr. Tinoosh Mohsenin**](https://eehpc.ece.jhu.edu/tinoosh-mohsenin/). My main research interests in the role include hardware-aware regression-based fine-tuning, explainable AI, and incremental learning for vision, audio, WLAN, and time-series applications.
 
 **Graduate Research Assistant @ University of Maryland Baltimore County (_May 2022 - Present_)**
 - Working on building explainable AI models to interpret neural network decisions and develop generalized AI frameworks.
