@@ -1,3 +1,5 @@
-# PhD Candidate, AI/ML Researcher, Expertise: Hardware-Aware Fine-Tuning of DNNs, Explainable AI, Embedded AI
+# PhD Candidate, AI/ML Researcher
 ## Education
-- PhD | University of Maryland Baltimore County (2019-2024)
+- PhD | University of Maryland Baltimore County (UMBC), USA (2019-2024)
+- MS  | University of Maryland Baltimore County (UMBC), USA (2019-2022)
+- BS  | Chittagong University of Engineering and Technology (CUET), Bangladesh (2013-2018)
