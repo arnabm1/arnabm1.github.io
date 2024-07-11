@@ -48,6 +48,7 @@ Designed the XAI-inspired incremental learning framework (at least 1% accuracy i
 ![XAI](/lime.png)
 
 - **Conference Proceedings:** [EUSIPCO 2023](https://ieeexplore.ieee.org/abstract/document/10289904)
+- **Patents:** [US Patent App. 18/178,351](https://patents.google.com/patent/US20240119290A1/en), [US Patent App. 18/178,223](https://patents.google.com/patent/US20240119293A1/en)
 
 ### Low-power Multi-modal CNN for Respiratory Symptom Detection
 Built and deployed the optimized multi-modal framework for respiratory symptoms detection with an End-to-end CNN architecture (1.5x improvement for energy efficiency with no accuracy degradation) using Tensorflow, PyTorch, Keras, and Vivado HDL.
