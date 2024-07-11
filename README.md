@@ -34,12 +34,15 @@ Hardware-aware fine-tuning of DNNs, Explainable AI, Compression techniques for E
 -  **Office Tools:** MS Office, MS Excel, MS Powerpoint, LaTeX Overleaf
 
 ## Projects
-- **Reg-Tune: Regression-Based Fine-Tuning Approach for DNNs on Embedded Platforms**
-  - Worked on the Google Speech Commands and CIFAR-10 dataset to develop low energy-consuming models on FPGA and NVIDIA Jetson Nano processors that provide near-optimal (100x reduction in model size)} results for multiple objectives using Tensorflow, PyTorch, QKeras, Librosa, MATLAB, TensorRT and Vivado HDL.
-- **XAI-Increment: Explainable-AI-focused Incremental Learning**
-  - Designed the XAI-inspired incremental learning framework (at least 1% accuracy improvement throughout all incremental sessions)
-- **Low-Power Multi-modal CNN for Respiratory Symptoms Detections**
-  - Built and deployed the optimized multi-modal framework for respiratory symptoms detection with an End-to-end CNN architecture (1.5x improvement for energy efficiency with no accuracy degradation)} using Tensorflow, PyTorch, Keras, and Vivado HDL.
+### Reg-Tune: Regression-Based Fine-Tuning Approach for DNNs on Embedded Platforms
+Worked on the Google Speech Commands and CIFAR-10 dataset to develop low energy-consuming models on FPGA and NVIDIA Jetson Nano processors that provide near-optimal (100x reduction in model size)} results for multiple objectives using Tensorflow, PyTorch, QKeras, Librosa, MATLAB, TensorRT and Vivado HDL.
+
+![Reg-Tune](/reg_tuneV2.pdf)
+
+### XAI-Increment: Explainable-AI-focused Incremental Learning
+Designed the XAI-inspired incremental learning framework (at least 1% accuracy improvement throughout all incremental sessions)
+### Low-Power Multi-modal CNN for Respiratory Symptoms Detections
+Built and deployed the optimized multi-modal framework for respiratory symptoms detection with an End-to-end CNN architecture (1.5x improvement for energy efficiency with no accuracy degradation)} using Tensorflow, PyTorch, Keras, and Vivado HDL.
   
 
 
