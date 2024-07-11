@@ -1,4 +1,7 @@
 # PhD Candidate, AI/ML Researcher
+## Research Interests
+Hardware-Aware Fine-Tuning of DNNs, Explainable AI, Embedded AI, AI/ML for Healthcare
+
 ## Education
 - PhD, Computer Engineering 
     - University of Maryland Baltimore County (UMBC), USA (December 2024)
@@ -8,14 +11,14 @@
     - Chittagong University of Engineering and Technology (CUET), Bangladesh (October 2018)
  
 ## Work Experience
-**Visiting Research Scholar @ Johns Hopkins University
-        - (_September 2023 - Present_)**
+**Visiting Research Scholar @ Johns Hopkins University (_September 2023 - Present_)**
 - Working as a visiting research fellow as part of the EEHPC team at Johns Hopkins University under the guidance of Dr. Tinoosh Mohsenin. My main research interests in the role include hardware-aware regression-based fine-tuning, explainable AI, and incremental learning for vision, audio, WLAN, and time-series applications.
 
 **Graduate Research Assistant @ University of Maryland Baltimore County (_May 2022 - Present_)**
 - Working on building explainable AI models to interpret neural network decisions and develop generalized AI frameworks.
-- Working on profiling energy consumption and real-time latency of deep neural networks on FPGAs and mobile edge GPUs for keyword spotting, activity monitoring,    image segmentation, and classification with hardware-aware network exploration.
-- Working on metric learning based semi-supervised deep neural network training to build improved feature spaces of lightweight and low power models.
+- Working on profiling energy consumption and real-time latency of deep neural networks on FPGAs and mobile edge GPUs for keyword spotting, activity 
+  monitoring, image segmentation, and classification with hardware-aware network exploration.
+- Working on metric learning-based semi-supervised deep neural network training to build improved feature spaces of lightweight and low-power models.
 - Working on building perception methodologies for navigation and situational awareness of autonomous robots.
 
 **Intern - Machine Learning @ Infineon Technologies (_June 2022 - December 2023_)**
@@ -25,3 +28,10 @@
   processing approaches.
 - Built end-to-end streaming inference pipeline using Python sockets for human sensing with WIFI data.
 - Developed the GradCAM explanation pipeline for the InfExplain demonstration.
+  
+## Technical Skills
+-  **Programming Languages:** Python, MATLAB, C Programming, Bash Scripting, Verilog, Synopsys Design and IC Compiler, SQL
+-  **Deep Learning Frameworks:** TensorFlow, PyTorch, Keras, QKeras, TensorRT
+-  **Libraries & Tools:** NumPy, Pandas, Scikit-learn, Librosa, Matplotlib, SciPy, Rdkit, Hugging Face, OpenCV, NLTK, Git, Docker
+-  **Office Tools:** MS Office, MS Excel, MS Powerpoint, LaTeX Overleaf
+
