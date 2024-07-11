@@ -8,7 +8,8 @@
     - Chittagong University of Engineering and Technology (CUET), Bangladesh (October 2018)
  
 ## Work Experience
-**Visiting Research Scholar @ Johns Hopkins University(_September 2023 - Present_)**
+**Visiting Research Scholar @ Johns Hopkins University
+        - (_September 2023 - Present_)**
 - Working as a visiting research fellow as part of the EEHPC team at Johns Hopkins University under the guidance of Dr. Tinoosh Mohsenin. My main research interests in the role include hardware-aware regression-based fine-tuning, explainable AI, and incremental learning for vision, audio, WLAN, and time-series applications.
 
 **Graduate Research Assistant @ University of Maryland Baltimore County (_May 2022 - Present_)**
