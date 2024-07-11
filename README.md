@@ -9,7 +9,7 @@ I am a UMBC graduate student pursuing a PhD in Computer Engineering with both ac
 - MS, Computer Engineering
     - University of Maryland Baltimore County (UMBC), USA (December 2022)
 - BS, Electrical and Electronic Engineering
-    - Chittagong University of Engineering and Technology (CUET), Bangladesh (October 2018)
+    - Chittagong University of Engineering and Technology (CUET), Bangladesh (October 2017)
  
 ## Work Experience
 **Visiting Research Scholar @ Johns Hopkins University (_September 2023 - Present_)**
