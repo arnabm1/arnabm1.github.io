@@ -13,7 +13,7 @@ Hardware-aware fine-tuning of DNNs, Explainable AI, Compression techniques for E
  
 ## Work Experience
 **Visiting Research Scholar @ Johns Hopkins University (_September 2023 - Present_)**
-- Working as a visiting research fellow as part of the EEHPC team at Johns Hopkins University under the guidance of Dr. Tinoosh Mohsenin. My main research interests in the role include hardware-aware regression-based fine-tuning, explainable AI, and incremental learning for vision, audio, WLAN, and time-series applications.
+- Working as a visiting research fellow as part of the EEHPC team at Johns Hopkins University under the guidance of [**Dr. Tinoosh Mohsenin**](https://eehpc.ece.jhu.edu/tinoosh-mohsenin/). My main research interests in the role include hardware-aware regression-based fine-tuning, explainable AI, and incremental learning for vision, audio, WLAN, and time-series applications.
 
 **Graduate Research Assistant @ University of Maryland Baltimore County (_May 2022 - Present_)**
 - Working on building explainable AI models to interpret neural network decisions and develop generalized AI frameworks.
@@ -81,3 +81,4 @@ Navigation" First Vision and Language for Autonomous Driving and Robotics (VLADR
 ## Contact
 - Email: arnabm1@umbc.edu
 - [Linkedin](https://www.linkedin.com/in/arnab-neelim-mazumder/)
+- [EEHPC Lab, Johns Hopkins University](https://eehpc.ece.jhu.edu/)
