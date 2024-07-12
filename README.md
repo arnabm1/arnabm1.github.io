@@ -69,8 +69,7 @@ Built and deployed the optimized DNN frameworks for human activity recognition o
 - **Book Chapters:** [Machine Learning for Computer Scientists and Data Analysts 2022](https://link.springer.com/book/10.1007/978-3-030-96756-7)
 
 ## All Publications
-1. [Utteja Kallakuri, Bharat Prakash, **Arnab Neelim Mazumder**, et al., 2024. "ATLAS: Adaptive Landmark Acquisition using LLM-Guided
-Navigation" First Vision and Language for Autonomous Driving and Robotics (VLADR) Workshop, **(CVPR)**.](https://openreview.net/forum?id=VhpxzSWTWj)
+1. [Utteja Kallakuri, Bharat Prakash, **Arnab Neelim Mazumder**, et al., 2024. "ATLAS: Adaptive Landmark Acquisition using LLM-Guided Navigation" First Vision and Language for Autonomous Driving and Robotics (VLADR) Workshop, **(CVPR)**.](https://openreview.net/forum?id=VhpxzSWTWj)
 2. [**Arnab Neelim Mazumder** and T. Mohsenin, "Reg-TuneV2: A Hardware-Aware and Multiobjective Regression-Based Fine-Tuning Approach for Deep Neural Networks on Embedded Platforms," in **IEEE Micro** 2023.](https://ieeexplore.ieee.org/abstract/document/10254568)
 3. [**Arnab Neelim Mazumder**, Farshad Safavi, Maryam Rahnemoonfar, and Tinoosh Mohsenin. "Reg-Tune: A Regression-Focused Fine-Tuning Approach for Profiling Low Energy Consumption and Latency," ACM Transactions of Embedded Computing and Systems **(TECS)** 2023.](https://dl.acm.org/doi/abs/10.1145/3623380)
 4. [**Arnab Neelim Mazumder**, Niall Lyons, Ashutosh Pandey, Avik Santra and Tinoosh Mohsenin, "Harnessing the Power of Explanations for Incremental Training: A LIME-Based Approach," 2023 31st European Signal Processing Conference **(EUSIPCO)**, Helsinki, Finland.](https://ieeexplore.ieee.org/abstract/document/10289904)
@@ -95,6 +94,15 @@ Navigation" First Vision and Language for Autonomous Driving and Robotics (VLADR
 ## Patents
 1. [Niall Lyons, **Arnab Neelim Mazumder**, Avik Santra, Anand Dubey, Ashutosh Pandey, "Managing data drift in machine learning models using incremental learning and explainability," US Patent App. 18/178,351.](https://patents.google.com/patent/US20240119290A1/en)
 2. [Niall Lyons, **Arnab Neelim Mazumder**, Avik Santra, Anand Dubey, Ashutosh Pandey, "Building generalized machine learning models from machine learning model explanations," US Patent App. 18/178,223.](https://patents.google.com/patent/US20240119293A1/en)
+
+## Talks and Presentations
+- "Edge Feasible AI: From Training to Deployment Methodologies" - **ARL ARTIAMAS Quarterly Meeting 2024**
+- "Reg-Tune: A Regression-Focused Fine-Tuning Technique for Low Energy Consumption and Latency for Embedded Deployment" - **ARL ARTIAMAS Quarterly Meeting 2023**
+- "A Regression-Focused Fine-Tuning Technique for Low Energy Consumption and Latency" - **57th Annual Conference on Information Sciences and Systems (CISS) 2023**
+- "Harnessing the Power of Explanations for Incremental Training: A LIME-Based Approach" - **EUSIPCO 2023**
+- "A fast network exploration strategy to profile low energy consumption for keyword spotting" - **tinyML Research Symposium 2022**
+- "A Survey on the Optimization of Neural Network Accelerators for Micro-AI On-Device Inference - **IBM IEEE CAS/EDS AI Compute Symposium 2021**
+- "An Energy-Efficient Low Power LSTM Processor for Human Activity Monitoring" - **SOCC 2020**
 
 ## Featured News Articles
 - February 2023: "Cutting-edge UMBC research uses artificial intelligence and robots to assist national security," Baltimore WJZ News, [featured at 1:33 timestamp.](https://www.cbsnews.com/baltimore/news/cutting-edge-umbc-research-uses-artificial-intelligence-and-robots-to-assist-national-security/)
