@@ -101,7 +101,7 @@ Built and deployed the optimized DNN frameworks for human activity recognition o
 - "A Regression-Focused Fine-Tuning Technique for Low Energy Consumption and Latency" - **57th Annual Conference on Information Sciences and Systems (CISS) 2023**
 - "Harnessing the Power of Explanations for Incremental Training: A LIME-Based Approach" - **EUSIPCO 2023**
 - "A fast network exploration strategy to profile low energy consumption for keyword spotting" - **tinyML Research Symposium 2022**
-- "A Survey on the Optimization of Neural Network Accelerators for Micro-AI On-Device Inference - **IBM IEEE CAS/EDS AI Compute Symposium 2021**
+- "A Survey on the Optimization of Neural Network Accelerators for Micro-AI On-Device Inference" - **IBM IEEE CAS/EDS AI Compute Symposium 2021**
 - "An Energy-Efficient Low Power LSTM Processor for Human Activity Monitoring" - **SOCC 2020**
 
 ## Featured News Articles
