@@ -1,25 +1,28 @@
-# PhD Candidate, AI/ML Researcher
-### [Resume](https://drive.google.com/file/d/1ylvGOYXDt71ffI6o3GGgm457_ODn_vYi/view?usp=sharing), [CV](https://drive.google.com/file/d/15y7_ykeDb9rfURJPI3rD8rLe4-BKmqXs/view?usp=sharing), [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=VX1E48AAAAAJ&sortby=pubdate)
+# Postdoc, AI/ML Researcher
+### [Resume](https://drive.google.com/file/d/1E4lJ2rFpYV8dXfjqnUaJcz7Ia6WK92iT/view?usp=sharing), [CV](https://drive.google.com/file/d/1oGZ4bD_Ucl9_86jATcYg1ZSNG4k1PNhH/view?usp=sharing), [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=VX1E48AAAAAJ&sortby=pubdate)
 ## About
 I am a UMBC graduate student pursuing a PhD in Computer Engineering with both academic and internship experience in developing explainable deep learning modules for audios and images as well as their deployment on embedded devices. Specialties include but are not limited to Python, MATLAB, C Programming, TensorFlow, PyTorch, and Verilog. Previously, I worked as an intern at Infineon Technologies with a focus on building transparent and interpretable AI models. Current research interests focus on hardware-aware fine-tuning of DNNs, explainable AI, compression techniques for Embedded AI, and AI/ML for vision, audio, time-series, and healthcare applications.
 
 ## Education
 - PhD, Computer Engineering 
-    - University of Maryland Baltimore County (UMBC), USA (December 2024)
+    - University of Maryland Baltimore County (UMBC), USA (October 2024)
 - MS, Computer Engineering
     - University of Maryland Baltimore County (UMBC), USA (December 2022)
 - BS, Electrical and Electronic Engineering
     - Chittagong University of Engineering and Technology (CUET), Bangladesh (October 2017)
  
 ## Work Experience
-**Visiting Research Scholar @ Johns Hopkins University (_September 2023 - Present_)**
-- Working as a visiting research scholar as part of the EEHPC team at Johns Hopkins University under the guidance of [**Dr. Tinoosh Mohsenin**](https://eehpc.ece.jhu.edu/tinoosh-mohsenin/). My main research interests in the role include hardware-aware regression-based fine-tuning, explainable AI, and incremental learning for vision, audio, WLAN, and time-series applications.
+**Postdoctoral Research Associate@ Los Alamos National Laboratory (_November 2024 - Present_)**
+- Working as a postdoctoral research associate with the Energy and Environmental Resources Security research group with a concentration on multimodal data fusion for environmental applications.
+  
+**Visiting Research Scholar @ Johns Hopkins University (_September 2023 - October 2024_)**
+- Worked as a visiting research scholar as part of the EEHPC team at Johns Hopkins University under the guidance of [**Dr. Tinoosh Mohsenin**](https://eehpc.ece.jhu.edu/tinoosh-mohsenin/). My main research interests in the role include hardware-aware regression-based fine-tuning, explainable AI, and incremental learning for vision, audio, WLAN, and time-series applications.
 
-**Graduate Research Assistant @ University of Maryland Baltimore County (_May 2022 - Present_)**
-- Working on building explainable AI models to interpret neural network decisions and develop generalized AI frameworks.
-- Working on profiling energy consumption and real-time latency of deep neural networks on FPGAs and mobile edge GPUs for keyword spotting, activity monitoring, image segmentation, and classification with hardware-aware network exploration.
-- Working on metric learning-based semi-supervised deep neural network training to build improved feature spaces of lightweight and low-power models.
-- Working on building perception methodologies for navigation and situational awareness of autonomous robots.
+**Graduate Research Assistant @ University of Maryland Baltimore County (_May 2022 - August 2024_)**
+- Built explainable AI models to interpret neural network decisions and develop generalized AI frameworks.
+- Profiled energy consumption and real-time latency of deep neural networks on FPGAs and mobile edge GPUs for keyword spotting, activity monitoring, image segmentation, and classification with hardware-aware network exploration.
+- Developed metric learning-based semi-supervised deep neural network training to build improved feature spaces of lightweight and low-power models.
+- Worked on building perception methodologies for navigation and situational awareness of autonomous robots.
 
 **Intern - Machine Learning @ Infineon Technologies (_June 2022 - December 2023_)**
 - Worked as an intern at Infineon Technologies Machine learning team with a concentration on building explainable AI models for audio, images, and time-series data.
