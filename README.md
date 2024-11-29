@@ -114,13 +114,13 @@ Built and deployed the optimized DNN frameworks for human activity recognition o
 - March 2021: "Groundbreaking computer engineering research," UMBC News, [featured as part of EEHPC Lab at UMBC.](https://news.umbc.edu/umbc-celebrates-u-s-news-best-grad-school-rankings-in-engineering-public-affairs/)
 
 ## Activities and Peer Review Services
-- 2024: IEEE International Workshop on Machine Learning for Signal Processing (MLSP)
+- 2024: IEEE International Workshop on Machine Learning for Signal Processing (MLSP), IEEE Sensors Journal
 - 2023: IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP), IEEE Sensors Journal, ACM Transactions on Embedded Computing Systems (TECS)
 - 2022: IEEE 35th International Systems-on-Chip Conference (SOCC)
 - 2020: **Teaching Assistant** for ENEE-610 (Digital Signal Processing) and CMPE-310(System Design and Programming) courses at UMBC Department of CSEE
 - 2019: **Teaching Assistant** for CMPE-311 (C Programming and Embedded Systems) course at UMBC Department of CSEE
 
 ## Contact
-- Email: arnabm1@umbc.edu
+- Email: a_maz@lanl.gov
 - [Linkedin](https://www.linkedin.com/in/arnab-neelim-mazumder/)
 - [EEHPC Lab, Johns Hopkins University](https://eehpc.ece.jhu.edu/)
