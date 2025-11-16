@@ -13,7 +13,7 @@ I am a postdoc at Los Alamos National Laboratory with a PhD in Computer Engineer
  
 ## Work Experience
 **Postdoctoral Research Associate@ Los Alamos National Laboratory (_November 2024 - Present_)**
-- Working as a postdoctoral research associate with the Energy and Environmental Resources Security research group with a concentration on multimodal data fusion for environmental applications.
+- Working as a postdoctoral research associate with the Environmental and Natural Resources Security research group (EES-16) with a concentration on developing multimodal foundation models for environmental and subsurface applications.
   
 **Visiting Research Scholar @ Johns Hopkins University (_September 2023 - October 2024_)**
 - Worked as a visiting research scholar as part of the EEHPC team at Johns Hopkins University under the guidance of [**Dr. Tinoosh Mohsenin**](https://eehpc.ece.jhu.edu/tinoosh-mohsenin/). My main research interests in the role include hardware-aware regression-based fine-tuning, explainable AI, and incremental learning for vision, audio, WLAN, and time-series applications.
