@@ -42,7 +42,7 @@ Worked on building the foundation model titled ’transparent earth’ which tak
 
 ![Transparent-Earth](/flow_v2.png)
 
-- **Conference Proceedings:** [Neurips 2025](https://neurips.cc/virtual/2025/loc/san-diego/125945), 
+- **Conference Proceedings:** [Neurips 2025](https://neurips.cc/virtual/2025/loc/san-diego/125945)
   
 ### Reg-Tune: Regression-Based Fine-Tuning Approach for DNNs on Embedded Platforms
 Worked on the Google Speech Commands and CIFAR-10 dataset to develop low energy-consuming models on FPGA and NVIDIA Jetson Nano processors that provide near-optimal (100x reduction in model size)} results for multiple objectives using Tensorflow, PyTorch, QKeras, Librosa, MATLAB, TensorRT and Vivado HDL.
